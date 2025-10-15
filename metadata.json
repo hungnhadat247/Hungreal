@@ -1,0 +1,5 @@
+{
+  "name": "App tạo ảnh người mẫu quảng cáo",
+  "description": "Upload a model photo and a product photo to generate six different high-quality advertising images using AI, preserving the model's face and ensuring product clarity for cosmetics and fashion.",
+  "requestFramePermissions": []
+}
